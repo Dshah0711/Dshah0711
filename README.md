@@ -98,12 +98,12 @@ const dhanvi = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-1&theme=algolia)](https://github.com/Dshah0711/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-1&theme=algolia)](https://github.com/Dshah0711/SLIFTEX-1))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-2&theme=algolia)](https://github.com/Dshah0711/project-name-2)
 
 </div>
 
-> 💡 **Note:** Replace `project-name-1` and `project-name-2` with your actual repository names to showcase your best work!
+
 
 ---
 
