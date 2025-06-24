@@ -71,8 +71,8 @@ const dhanvi = {
 
 ### 🎯 Key Accomplishments
 - 🏆 **Smart India Hackathon (SIH) Winner** - Developed innovative solution for real-world problem
-- 🎓 **NIT Bhopal Student** - Pre-Final Year Electronics and communication Engineering
-- 💻 **Full Stack Developer** - 2+ years of hands-on experience
+- 🎓 **NIT Bhopal Student** - Pre-Final Year Computer Science Engineering
+- 💻 **Full Stack Developer** - 3+ years of hands-on experience
 - 🚀 **Notable Projects** - Check out my pinned repositories below!
 
 ---
@@ -97,13 +97,37 @@ const dhanvi = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-1&theme=algolia)](https://github.com/Dshah0711/SLIFTEX-1))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-2&theme=algolia)](https://github.com/Dshah0711/project-name-2)
+
+### 🏆 **SLIFTEX-1** - *Smart India Hackathon Winner*
+[![SLIFTEX-1](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=SLIFTEX-1&theme=algolia)](https://github.com/Dshah0711/SLIFTEX-1)
+
+**🎯 SIH Winning Solution** | **🔧 Full Stack Development** | **🌟 Real-world Impact**
+
+*Revolutionary platform that secured victory at Smart India Hackathon. Built with cutting-edge technologies to solve critical industry challenges. Demonstrates advanced problem-solving skills and innovative thinking that caught the attention of industry experts and judges.*
+
+---
+
+### 🤖 **SensAI** - *AI-Powered Intelligence Platform*
+[![SensAI](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=sensai&theme=algolia)](https://github.com/Dshah0711/sensai)
+
+**🧠 Artificial Intelligence** | **⚡ Modern Web Stack** | **🚀 Scalable Architecture**
+
+*Next-generation AI platform showcasing advanced machine learning integration with sleek web interfaces. Features intelligent data processing, responsive design, and seamless user experience. Perfect blend of AI capabilities with full-stack development expertise.*
+
+---
+
+### 🏥 **CarePulse** - *Healthcare Management System*
+[![CarePulse](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=CarePulse&theme=algolia)](https://github.com/Dshah0711/CarePulse)
+
+**💊 Healthcare Tech** | **📱 Responsive Design** | **🔒 Secure & Reliable**
+
+*Comprehensive healthcare management solution designed to streamline patient care and medical operations. Features appointment scheduling, patient records management, and real-time monitoring. Built with modern web technologies ensuring security, scalability, and user-friendly experience.*
 
 </div>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Explore_More_Projects-Visit_My_Repositories-blue?style=for-the-badge&logo=github" alt="More Projects"/>
+</div>
 
 ---
 
@@ -111,9 +135,9 @@ const dhanvi = {
 
 ```javascript
 const currentFocus = {
-    learning: ["Computer Architecture", "DSA", OOPS ],
-    building: ["Full Stack Web Applications", "DSA Problem Solutions", "competative programming"],
-    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization"],
+    learning: ["Advanced System Design", "Microservices Architecture", "Cloud Technologies"],
+    building: ["Full Stack Web Applications", "DSA Problem Solutions", "Open Source Contributions"],
+    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization", "DevOps Practices"],
     goals: ["Mastering Full Stack Development", "Contributing to Open Source", "Landing Dream Internship"]
 };
 ```
@@ -133,6 +157,11 @@ const currentFocus = {
 
 ---
 
+## 📈 Coding Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dshah0711?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+</div>
 
 ---
 
