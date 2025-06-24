@@ -66,7 +66,7 @@ const dhanvi = {
 ## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dshah011&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dshah0711&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ### 🎯 Key Accomplishments
@@ -80,16 +80,16 @@ const dhanvi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dshah011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dshah011&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dshah0711&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dshah0711&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dshah011&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dshah0711&theme=algolia" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dshah011&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dshah0711&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -98,8 +98,8 @@ const dhanvi = {
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah011&repo=project-name-1&theme=algolia)](https://github.com/Dshah011/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah011&repo=project-name-2&theme=algolia)](https://github.com/Dshah011/project-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-1&theme=algolia)](https://github.com/Dshah0711/project-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dshah0711&repo=project-name-2&theme=algolia)](https://github.com/Dshah0711/project-name-2)
 
 </div>
 
@@ -127,7 +127,7 @@ const currentFocus = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanvi-shah-084080294)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhanvishah-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanvishah0711@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dshah011)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dshah0711)
 
 </div>
 
@@ -136,7 +136,7 @@ const currentFocus = {
 ## 📈 Coding Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dshah011?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Dshah0711?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ---
@@ -159,13 +159,13 @@ const currentFocus = {
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Dshah011&color=blueviolet&style=flat-square&label=Profile%20Views)
-[![GitHub followers](https://img.shields.io/github/followers/Dshah011?label=Follow&style=social)](https://github.com/Dshah011)
+![Profile Views](https://komarev.com/ghpvc/?username=Dshah0711&color=blueviolet&style=flat-square&label=Profile%20Views)
+[![GitHub followers](https://img.shields.io/github/followers/Dshah0711?label=Follow&style=social)](https://github.com/Dshah0711)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/Dshah011">Dhanvi Shah</a> - Made with ❤️ and lots of ☕</i>
+  <i>⭐️ From <a href="https://github.com/Dshah0711">Dhanvi Shah</a> - Made with ❤️ and lots of ☕</i>
 </div>
