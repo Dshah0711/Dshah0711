@@ -71,8 +71,8 @@ const dhanvi = {
 
 ### 🎯 Key Accomplishments
 - 🏆 **Smart India Hackathon (SIH) Winner** - Developed innovative solution for real-world problem
-- 🎓 **NIT Bhopal Student** - Pre-Final Year Computer Science Engineering
-- 💻 **Full Stack Developer** - 3+ years of hands-on experience
+- 🎓 **NIT Bhopal Student** - Pre-Final Year Electronics and communication Engineering
+- 💻 **Full Stack Developer** - 2+ years of hands-on experience
 - 🚀 **Notable Projects** - Check out my pinned repositories below!
 
 ---
@@ -111,9 +111,9 @@ const dhanvi = {
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced System Design", "Microservices Architecture", "Cloud Technologies"],
-    building: ["Full Stack Web Applications", "DSA Problem Solutions", "Open Source Contributions"],
-    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization", "DevOps Practices"],
+    learning: ["Computer Architecture", "DSA", OOPS ],
+    building: ["Full Stack Web Applications", "DSA Problem Solutions", "competative programming"],
+    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization"],
     goals: ["Mastering Full Stack Development", "Contributing to Open Source", "Landing Dream Internship"]
 };
 ```
@@ -133,11 +133,6 @@ const currentFocus = {
 
 ---
 
-## 📈 Coding Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dshah0711?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
-</div>
 
 ---
 
