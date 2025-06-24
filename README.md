@@ -71,8 +71,8 @@ const dhanvi = {
 
 ### 🎯 Key Accomplishments
 - 🏆 **Smart India Hackathon (SIH) Winner** - Developed innovative solution for real-world problem
-- 🎓 **NIT Bhopal Student** - Pre-Final Year Computer Science Engineering
-- 💻 **Full Stack Developer** - 3+ years of hands-on experience
+- 🎓 **NIT Bhopal Student** - Pre-Final Year Electronics and communication Engineering
+- 💻 **Full Stack Developer** - 2+ years of hands-on experience
 - 🚀 **Notable Projects** - Check out my pinned repositories below!
 
 ---
@@ -103,7 +103,7 @@ const dhanvi = {
 
 **🎯 SIH Winning Solution** | **🔧 Full Stack Development** | **🌟 Real-world Impact**
 
-*Revolutionary platform that secured victory at Smart India Hackathon. Built with cutting-edge technologies to solve critical industry challenges. Demonstrates advanced problem-solving skills and innovative thinking that caught the attention of industry experts and judges.*
+*Revolutionary platform that secured victory at Smart India Hackathon. Built with cutting-edge technologies to solve critical government challenges. Demonstrates advanced problem-solving skills and innovative thinking that caught the attention of  judges.*
 
 ---
 
@@ -135,9 +135,9 @@ const dhanvi = {
 
 ```javascript
 const currentFocus = {
-    learning: ["Advanced System Design", "Microservices Architecture", "Cloud Technologies"],
+    learning: ["DBMS", "DSA","Competative Programming"],
     building: ["Full Stack Web Applications", "DSA Problem Solutions", "Open Source Contributions"],
-    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization", "DevOps Practices"],
+    exploring: ["AI/ML Integration in Web Apps", "Performance Optimization"],
     goals: ["Mastering Full Stack Development", "Contributing to Open Source", "Landing Dream Internship"]
 };
 ```
@@ -157,13 +157,7 @@ const currentFocus = {
 
 ---
 
-## 📈 Coding Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dshah0711?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
-</div>
-
----
 
 ## 🎯 Quick Facts
 
